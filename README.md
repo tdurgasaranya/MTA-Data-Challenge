@@ -6,7 +6,7 @@ Challenge : https://new.mta.info/article/mta-open-data-challenge
 
 Data Sources: https://data.ny.gov/browse?Dataset-Information_Agency=Metropolitan+Transportation+Authority
 
-Technologies & Apps utlizied:
+Technologies & Apps:
 
 - Python, SQL
 - Gen AI
