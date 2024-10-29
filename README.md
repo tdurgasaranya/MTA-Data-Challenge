@@ -1,6 +1,7 @@
 # MTA-Data-Challenge
 --- 
-## MTA Open Data challenge 2024 ##  https://new.mta.info/article/mta-open-data-challenge
+## MTA Open Data challenge 2024 ##
+https://new.mta.info/article/mta-open-data-challenge
 
 ## Overview
 The **MTA Data Challenge** project analyzes public transit data from the Metropolitan Transportation Authority (MTA) to uncover insights into subway ridership patterns. Using data analysis and visualization techniques, this project provides a deeper understanding of commuter behavior and trends, which can be valuable for transit planning, improving services, and optimizing resource allocation.
