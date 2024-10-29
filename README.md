@@ -11,4 +11,4 @@ Technologies & Apps:
 - Python, SQL
 - Gen AI
 - Excel
-- Tableau
+- Power BI Reporting
