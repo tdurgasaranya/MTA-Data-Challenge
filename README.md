@@ -20,7 +20,7 @@ The **MTA Data Challenge** project analyzes public transit data from the Metropo
 
 ---
 
-## Project Objective 🎯
+## Project Objective
 The goal of this project is to:
 - Analyze MTA subway turnstile data to identify ridership trends and patterns.
 - Investigate peak transit times, station activity levels, and entry/exit patterns.
@@ -28,13 +28,13 @@ The goal of this project is to:
 
 ---
 
-## Dataset 📁
+## Dataset
 
 **Source**: https://data.ny.gov/browse?Dataset-Information_Agency=Metropolitan+Transportation+Authority
 
 ---
 
-## Data Preprocessing 🧹
+## Data Preprocessing
 The raw dataset contains several million records, so data cleaning and preprocessing are crucial. Key steps involved:
 - Removing duplicates and irrelevant columns.
 - Handling cumulative entry/exit values by calculating the daily changes.
@@ -57,7 +57,7 @@ Exploratory Data Analysis was performed to gain insights into ridership patterns
 
 ---
 
-## Key Insights 💡
+## Key Insights
 The analysis led to several notable findings:
 - **Peak Transit Hours**: Ridership peaks during weekday rush hours (8-9 AM, 5-7 PM), while weekends exhibit more scattered usage patterns.
 - **High-Traffic Stations**: Times Sq-42 St is the busiest, followed by 34 St-Herald Sq and Grand Central-42 St, all major transit hubs in Manhattan.
@@ -67,7 +67,7 @@ Manhattan holds the majority of the highest ridership stations, reflecting its r
 
 ---
 
-## Technologies Used 🛠️
+## Technologies Used
 The following technologies were used for data analysis and visualization:
 - **Python**: Main programming language for data manipulation and analysis.
 - **Pandas**: Used for data cleaning and wrangling.
@@ -76,7 +76,7 @@ The following technologies were used for data analysis and visualization:
   
 ---
 
-## Future Enhancements 🔮
+## Future Enhancements
 Potential future improvements to the project:
 - **Real-Time Data Analysis**: Incorporate live data to monitor current ridership trends.
 - **Predictive Modeling**: Develop models to predict future ridership based on historical trends and external factors (e.g., weather, events).
